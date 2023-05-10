@@ -19,5 +19,5 @@ from django.urls import path, include
 
 
 urlpatterns = [
-    path('admin/', include('flights.urls')),
+    path('easyRest/', include('flights.urls')),
 ]

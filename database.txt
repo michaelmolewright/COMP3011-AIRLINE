@@ -1,0 +1,279 @@
+Generated Flight  MW887427540  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/10/2023, 19:05
+Generated Flight  MW887427541  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/10/2023, 11:57
+Generated Flight  MW887427542  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/10/2023, 16:58
+Generated Flight  MW887427543  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/10/2023, 15:59
+Generated Flight  MW887427544  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/10/2023, 15:08
+Generated Flight  MW887427545  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/11/2023, 17:53
+Generated Flight  MW887427546  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/11/2023, 15:39
+Generated Flight  MW887427547  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/11/2023, 07:46
+Generated Flight  MW887427548  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/11/2023, 19:51
+Generated Flight  MW887427549  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/11/2023, 06:06
+Generated Flight  MW887427550  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/12/2023, 15:53
+Generated Flight  MW887427551  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/12/2023, 17:05
+Generated Flight  MW887427552  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/12/2023, 00:37
+Generated Flight  MW887427553  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/12/2023, 21:29
+Generated Flight  MW887427554  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/12/2023, 02:17
+Generated Flight  MW887427555  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/13/2023, 01:34
+Generated Flight  MW887427556  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/13/2023, 23:34
+Generated Flight  MW887427557  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/13/2023, 20:13
+Generated Flight  MW887427558  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/13/2023, 03:02
+Generated Flight  MW887427559  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/13/2023, 03:02
+Generated Flight  MW887427560  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/14/2023, 12:05
+Generated Flight  MW887427561  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/14/2023, 21:11
+Generated Flight  MW887427562  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/14/2023, 23:38
+Generated Flight  MW887427563  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/14/2023, 08:55
+Generated Flight  MW887427564  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/14/2023, 18:11
+Generated Flight  MW887427565  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/15/2023, 02:10
+Generated Flight  MW887427566  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/15/2023, 11:28
+Generated Flight  MW887427567  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/15/2023, 18:05
+Generated Flight  MW887427568  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/15/2023, 04:38
+Generated Flight  MW887427569  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/15/2023, 00:08
+Generated Flight  MW887427570  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/16/2023, 09:21
+Generated Flight  MW887427571  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/16/2023, 05:25
+Generated Flight  MW887427572  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/16/2023, 00:56
+Generated Flight  MW887427573  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/16/2023, 14:14
+Generated Flight  MW887427574  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/16/2023, 20:46
+Generated Flight  MW887427575  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/17/2023, 21:56
+Generated Flight  MW887427576  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/17/2023, 01:49
+Generated Flight  MW887427577  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/17/2023, 03:53
+Generated Flight  MW887427578  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/17/2023, 06:38
+Generated Flight  MW887427579  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/17/2023, 04:56
+Generated Flight  MW887427580  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/18/2023, 04:44
+Generated Flight  MW887427581  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/18/2023, 22:16
+Generated Flight  MW887427582  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/18/2023, 01:39
+Generated Flight  MW887427583  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/18/2023, 22:26
+Generated Flight  MW887427584  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/18/2023, 05:20
+Generated Flight  MW887427585  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/19/2023, 13:49
+Generated Flight  MW887427586  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/19/2023, 00:29
+^CTraceback (most recent call last):
+  File "manage.py", line 22, in <module>
+    main()
+  File "manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/core/management/__init__.py", line 442, in execute_from_command_line
+    utility.execute()
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/core/management/__init__.py", line 436, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/core/management/base.py", line 412, in run_from_argv
+    self.execute(*args, **cmd_options)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/core/management/base.py", line 458, in execute
+    output = self.handle(*args, **options)
+  File "/mnt/d/comp3011-airline/easyREST/flights/management/commands/genData.py", line 86, in handle
+    self.generate_all_flights()
+  File "/mnt/d/comp3011-airline/easyREST/flights/management/commands/genData.py", line 143, in generate_all_flights
+    self.generate_flight(flight, plane, departureDateTime, next(unique_ids))
+  File "/mnt/d/comp3011-airline/easyREST/flights/management/commands/genData.py", line 117, in generate_flight
+    Seat.objects.create(**seat_data)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/base.py", line 814, in save
+    self.save_base(
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/base.py", line 877, in save_base
+    updated = self._save_table(
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1820, in execute_sql
+    cursor.execute(sql, params)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/mnt/d/comp3011-airline/venv/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+KeyboardInterrupt
+
+(venv) mikeywri@DESKTOP-H6RDOQ3:/mnt/d/comp3011-airline/easyREST$ python3 manage.py makemigrations
+Migrations for 'flights':
+  flights/migrations/0001_initial.py
+    - Create model Flight
+    - Create model Passenger
+    - Create model Seat
+    - Create model Reservation
+(venv) mikeywri@DESKTOP-H6RDOQ3:/mnt/d/comp3011-airline/easyREST$ python3 manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, flights, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying flights.0001_initial... OK
+  Applying sessions.0001_initial... OK
+(venv) mikeywri@DESKTOP-H6RDOQ3:/mnt/d/comp3011-airline/easyREST$ python3 manage.py genData
+Deleting Old Data...
+Generating New Data...
+Generated Flight  MW2759663337  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/10/2023, 11:30
+Generated Flight  MW2759663338  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/10/2023, 08:18
+Generated Flight  MW2759663339  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/10/2023, 16:31
+Generated Flight  MW2759663340  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/10/2023, 17:50
+Generated Flight  MW2759663341  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/10/2023, 01:11
+Generated Flight  MW2759663342  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/11/2023, 04:19
+Generated Flight  MW2759663343  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/11/2023, 07:58
+Generated Flight  MW2759663344  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/11/2023, 22:31
+Generated Flight  MW2759663345  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/11/2023, 21:56
+Generated Flight  MW2759663346  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/11/2023, 17:55
+Generated Flight  MW2759663347  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/12/2023, 16:39
+Generated Flight  MW2759663348  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/12/2023, 13:30
+Generated Flight  MW2759663349  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/12/2023, 19:16
+Generated Flight  MW2759663350  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/12/2023, 21:53
+Generated Flight  MW2759663351  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/12/2023, 18:52
+Generated Flight  MW2759663352  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/13/2023, 06:00
+Generated Flight  MW2759663353  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/13/2023, 23:14
+Generated Flight  MW2759663354  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/13/2023, 07:56
+Generated Flight  MW2759663355  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/13/2023, 10:17
+Generated Flight  MW2759663356  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/13/2023, 18:27
+Generated Flight  MW2759663357  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/14/2023, 21:14
+Generated Flight  MW2759663358  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/14/2023, 06:31
+Generated Flight  MW2759663359  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/14/2023, 03:15
+Generated Flight  MW2759663360  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/14/2023, 23:33
+Generated Flight  MW2759663361  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/14/2023, 07:36
+Generated Flight  MW2759663362  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/15/2023, 03:24
+Generated Flight  MW2759663363  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/15/2023, 13:24
+Generated Flight  MW2759663364  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/15/2023, 06:36
+Generated Flight  MW2759663365  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/15/2023, 21:38
+Generated Flight  MW2759663366  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/15/2023, 17:05
+Generated Flight  MW2759663367  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/16/2023, 09:03
+Generated Flight  MW2759663368  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/16/2023, 03:25
+Generated Flight  MW2759663369  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/16/2023, 00:07
+Generated Flight  MW2759663370  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/16/2023, 07:52
+Generated Flight  MW2759663371  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/16/2023, 14:20
+Generated Flight  MW2759663372  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/17/2023, 17:05
+Generated Flight  MW2759663373  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/17/2023, 02:58
+Generated Flight  MW2759663374  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/17/2023, 00:13
+Generated Flight  MW2759663375  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/17/2023, 17:04
+Generated Flight  MW2759663376  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/17/2023, 21:10
+Generated Flight  MW2759663377  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/18/2023, 06:09
+Generated Flight  MW2759663378  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/18/2023, 19:04
+Generated Flight  MW2759663379  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/18/2023, 08:01
+Generated Flight  MW2759663380  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/18/2023, 15:24
+Generated Flight  MW2759663381  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/18/2023, 11:45
+Generated Flight  MW2759663382  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/19/2023, 07:18
+Generated Flight  MW2759663383  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/19/2023, 14:10
+Generated Flight  MW2759663384  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/19/2023, 05:21
+Generated Flight  MW2759663385  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/19/2023, 18:34
+Generated Flight  MW2759663386  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/19/2023, 15:09
+Generated Flight  MW2759663387  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/20/2023, 02:53
+Generated Flight  MW2759663388  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/20/2023, 04:13
+Generated Flight  MW2759663389  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/20/2023, 18:23
+Generated Flight  MW2759663390  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/20/2023, 16:10
+Generated Flight  MW2759663391  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/20/2023, 14:34
+Generated Flight  MW2759663392  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/21/2023, 08:01
+Generated Flight  MW2759663393  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/21/2023, 22:53
+Generated Flight  MW2759663394  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/21/2023, 13:36
+Generated Flight  MW2759663395  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/21/2023, 04:11
+Generated Flight  MW2759663396  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/21/2023, 20:35
+Generated Flight  MW2759663397  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/22/2023, 14:15
+Generated Flight  MW2759663398  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/22/2023, 11:56
+Generated Flight  MW2759663399  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/22/2023, 06:47
+Generated Flight  MW2759663400  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/22/2023, 14:10
+Generated Flight  MW2759663401  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/22/2023, 05:47
+Generated Flight  MW2759663402  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/23/2023, 10:55
+Generated Flight  MW2759663403  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/23/2023, 06:27
+Generated Flight  MW2759663404  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/23/2023, 02:30
+Generated Flight  MW2759663405  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/23/2023, 12:53
+Generated Flight  MW2759663406  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/23/2023, 21:25
+Generated Flight  MW2759663407  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/24/2023, 13:57
+Generated Flight  MW2759663408  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/24/2023, 04:45
+Generated Flight  MW2759663409  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/24/2023, 18:28
+Generated Flight  MW2759663410  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/24/2023, 07:46
+Generated Flight  MW2759663411  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/24/2023, 15:34
+Generated Flight  MW2759663412  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/25/2023, 23:13
+Generated Flight  MW2759663413  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/25/2023, 16:01
+Generated Flight  MW2759663414  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/25/2023, 13:19
+Generated Flight  MW2759663415  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/25/2023, 15:36
+Generated Flight  MW2759663416  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/25/2023, 07:43
+Generated Flight  MW2759663417  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/26/2023, 17:57
+Generated Flight  MW2759663418  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/26/2023, 15:40
+Generated Flight  MW2759663419  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/26/2023, 12:06
+Generated Flight  MW2759663420  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/26/2023, 15:48
+Generated Flight  MW2759663421  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/26/2023, 15:57
+Generated Flight  MW2759663422  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/27/2023, 22:26
+Generated Flight  MW2759663423  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/27/2023, 17:44
+Generated Flight  MW2759663424  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/27/2023, 02:02
+Generated Flight  MW2759663425  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/27/2023, 10:41
+Generated Flight  MW2759663426  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/27/2023, 16:08
+Generated Flight  MW2759663427  -- From:  CCU  -- To:  DXB  -- Time of Departure:  05/28/2023, 08:01
+Generated Flight  MW2759663428  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/28/2023, 10:24
+Generated Flight  MW2759663429  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/28/2023, 12:54
+Generated Flight  MW2759663430  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/28/2023, 07:43
+Generated Flight  MW2759663431  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/28/2023, 18:29
+Generated Flight  MW2759663432  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/29/2023, 21:10
+Generated Flight  MW2759663433  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/29/2023, 13:26
+Generated Flight  MW2759663434  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/29/2023, 05:18
+Generated Flight  MW2759663435  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/29/2023, 08:32
+Generated Flight  MW2759663436  -- From:  DXB  -- To:  CCU  -- Time of Departure:  05/29/2023, 18:37
+Generated Flight  MW2759663437  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/30/2023, 19:47
+Generated Flight  MW2759663438  -- From:  SYD  -- To:  DXB  -- Time of Departure:  05/30/2023, 09:58
+Generated Flight  MW2759663439  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/30/2023, 12:59
+Generated Flight  MW2759663440  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/30/2023, 07:54
+Generated Flight  MW2759663441  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/30/2023, 10:45
+Generated Flight  MW2759663442  -- From:  BHD  -- To:  LBA  -- Time of Departure:  05/31/2023, 02:07
+Generated Flight  MW2759663443  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/31/2023, 22:21
+Generated Flight  MW2759663444  -- From:  IPC  -- To:  BHD  -- Time of Departure:  05/31/2023, 20:28
+Generated Flight  MW2759663445  -- From:  DXB  -- To:  SYD  -- Time of Departure:  05/31/2023, 10:59
+Generated Flight  MW2759663446  -- From:  LBA  -- To:  BHD  -- Time of Departure:  05/31/2023, 03:25
+Generated Flight  MW2759663447  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/01/2023, 11:18
+Generated Flight  MW2759663448  -- From:  SYD  -- To:  DXB  -- Time of Departure:  06/01/2023, 16:44
+Generated Flight  MW2759663449  -- From:  DXB  -- To:  CCU  -- Time of Departure:  06/01/2023, 18:48
+Generated Flight  MW2759663450  -- From:  DXB  -- To:  SYD  -- Time of Departure:  06/01/2023, 08:06
+Generated Flight  MW2759663451  -- From:  CCU  -- To:  DXB  -- Time of Departure:  06/01/2023, 09:49
+Generated Flight  MW2759663452  -- From:  SYD  -- To:  DXB  -- Time of Departure:  06/02/2023, 03:42
+Generated Flight  MW2759663453  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/02/2023, 05:32
+Generated Flight  MW2759663454  -- From:  SYD  -- To:  DXB  -- Time of Departure:  06/02/2023, 06:11
+Generated Flight  MW2759663455  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/02/2023, 04:25
+Generated Flight  MW2759663456  -- From:  BHD  -- To:  LBA  -- Time of Departure:  06/02/2023, 11:48
+Generated Flight  MW2759663457  -- From:  SYD  -- To:  DXB  -- Time of Departure:  06/03/2023, 07:56
+Generated Flight  MW2759663458  -- From:  DXB  -- To:  SYD  -- Time of Departure:  06/03/2023, 20:37
+Generated Flight  MW2759663459  -- From:  IPC  -- To:  BHD  -- Time of Departure:  06/03/2023, 20:20
+Generated Flight  MW2759663460  -- From:  CCU  -- To:  DXB  -- Time of Departure:  06/03/2023, 07:43
+Generated Flight  MW2759663461  -- From:  CCU  -- To:  DXB  -- Time of Departure:  06/03/2023, 15:28
+Generated Flight  MW2759663462  -- From:  DXB  -- To:  SYD  -- Time of Departure:  06/04/2023, 03:28
+Generated Flight  MW2759663463  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/04/2023, 11:59
+Generated Flight  MW2759663464  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/04/2023, 16:00
+Generated Flight  MW2759663465  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/04/2023, 17:42
+Generated Flight  MW2759663466  -- From:  DXB  -- To:  SYD  -- Time of Departure:  06/04/2023, 09:27
+Generated Flight  MW2759663467  -- From:  SYD  -- To:  DXB  -- Time of Departure:  06/05/2023, 00:01
+Generated Flight  MW2759663468  -- From:  BHD  -- To:  LBA  -- Time of Departure:  06/05/2023, 00:33
+Generated Flight  MW2759663469  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/05/2023, 21:45
+Generated Flight  MW2759663470  -- From:  DXB  -- To:  SYD  -- Time of Departure:  06/05/2023, 15:27
+Generated Flight  MW2759663471  -- From:  BHD  -- To:  LBA  -- Time of Departure:  06/05/2023, 15:26
+Generated Flight  MW2759663472  -- From:  DXB  -- To:  CCU  -- Time of Departure:  06/06/2023, 05:32
+Generated Flight  MW2759663473  -- From:  IPC  -- To:  BHD  -- Time of Departure:  06/06/2023, 02:02
+Generated Flight  MW2759663474  -- From:  DXB  -- To:  SYD  -- Time of Departure:  06/06/2023, 22:38
+Generated Flight  MW2759663475  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/06/2023, 08:21
+Generated Flight  MW2759663476  -- From:  DXB  -- To:  SYD  -- Time of Departure:  06/06/2023, 10:27
+Generated Flight  MW2759663477  -- From:  DXB  -- To:  SYD  -- Time of Departure:  06/07/2023, 02:12
+Generated Flight  MW2759663478  -- From:  BHD  -- To:  LBA  -- Time of Departure:  06/07/2023, 08:06
+Generated Flight  MW2759663479  -- From:  DXB  -- To:  CCU  -- Time of Departure:  06/07/2023, 22:03
+Generated Flight  MW2759663480  -- From:  CCU  -- To:  DXB  -- Time of Departure:  06/07/2023, 17:46
+Generated Flight  MW2759663481  -- From:  CCU  -- To:  DXB  -- Time of Departure:  06/07/2023, 08:19
+Generated Flight  MW2759663482  -- From:  BHD  -- To:  LBA  -- Time of Departure:  06/08/2023, 00:27
+Generated Flight  MW2759663483  -- From:  SYD  -- To:  DXB  -- Time of Departure:  06/08/2023, 22:18
+Generated Flight  MW2759663484  -- From:  BHD  -- To:  LBA  -- Time of Departure:  06/08/2023, 14:17
+Generated Flight  MW2759663485  -- From:  SYD  -- To:  DXB  -- Time of Departure:  06/08/2023, 22:28
+Generated Flight  MW2759663486  -- From:  LBA  -- To:  BHD  -- Time of Departure:  06/08/2023, 08:08
