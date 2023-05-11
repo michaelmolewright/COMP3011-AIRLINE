@@ -19,5 +19,5 @@ from django.urls import path, include
 
 
 urlpatterns = [
-    path('easyRest/', include('flights.urls')),
+    path('', include('flights.urls')),
 ]
