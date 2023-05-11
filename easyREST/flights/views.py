@@ -6,6 +6,7 @@ import datetime
 from rest_framework import viewsets, mixins
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
+from rest_framework.exceptions import ValidationError
 
 
 from flights.models import Flight, Seat, Passenger, Reservation
@@ -44,11 +45,14 @@ class ReservationViewSet(viewsets.ModelViewSet):
 
 @api_view(http_method_names=['GET'])
 def get_flights(request, date, departureAirport, destinationAirport):
+   '''
+   ENDPOINT Function - Queries the flights database and returns the appropriate flights
+   '''
    
    try:
       queryDate = datetime.datetime.strptime(date, "%Y-%m-%d")
    except ValueError:
-      Response("Invalid date.", status=400)
+      return Response("Invalid date.", status=400)
 
    flightSerializer = FlightSerializer
    seatSerializer = SeatSerializer
@@ -72,6 +76,9 @@ def get_flights(request, date, departureAirport, destinationAirport):
 
 @api_view(http_method_names=['POST'])
 def book_reservation(request):
+   '''
+   ENDPOINT Function - Creates a reservation
+   '''
 
    #-----------------FLIGHT------------------#
    try:
@@ -112,6 +119,9 @@ def book_reservation(request):
       return Response(new_reservation.errors, status=400)
    #----------------------------------------#
 
+   #update seat taken
+   seat.seatTaken = True
+   seat.save()
    
    finalJSON = {}
    finalJSON["reservationId"] = reservation.reservationId
@@ -126,21 +136,105 @@ def book_reservation(request):
 
 @api_view(http_method_names=['GET'])
 def query_reservation(request, reservationId):
+   '''
+   ENDPOINT Function - Queries the Reservations database and returns the appropriate Reservation
+   '''
+   ###################################################   
+   #-----------------QUERY-RESERVATION---------------#
    try:
-      seat = Seat.objects.get( flightId=request.data["flightId"], seatNumber=request.data["seatNumber"], seatTaken=False)
-   except Seat.DoesNotExist:
-      return Response("Seat does not exist, or it is taken!", status=400)
+      reservation = Reservation.objects.get( reservationId=reservationId)
+   except Reservation.DoesNotExist:
+      return Response("Reservation does not exist", status=400)
 
-   return Response(reservationId)
+   returnJSON =  ReservationSerializer(reservation).data
+   #-------------------------------------------------#
+   ###################################################
+   #----------------COLLECT_JSONS--------------------#
+   passenger = Passenger.objects.get(passengerId=returnJSON["passengerId"])
+   passengerJSON =  PassengerSerializer(passenger).data
+
+   seat = Seat.objects.get(seatId=returnJSON["seatId"])
+   seatJSON =  SeatSerializer(seat).data
+
+   flight = Flight.objects.get(flightId= seatJSON["flightId"])
+   flightJSON =  FlightSerializer(flight).data
+   #-------------------------------------------------#
+   ###################################################
+   #-----------------Create-Return-JSON--------------#
+   del returnJSON["passengerId"]
+   returnJSON["flight"] = flightJSON
+   returnJSON["passenger"] = passengerJSON
+   #-------------------------------------------------#
+
+   return Response(returnJSON, status=200)
 
 @api_view(http_method_names=['PUT'])
 def update_reservation(request, reservationId):
-   return Response(reservationId)
+   '''
+   ENDPOINT Function - Queries the Reservations database Updates a reservation with a PUT request
+   '''
+   #-----------------QUERY-RESERVATION---------------#
+   try:
+      reservation = Reservation.objects.get( reservationId=reservationId )
+   except Reservation.DoesNotExist:
+      return Response("Reservation does not exist", status=400)
+
+   returnJSON =  ReservationSerializer(reservation).data
+   #-------------------------------------------------#
+
+   seat = Seat.objects.get(seatId=returnJSON["seatId"])
+   seatJSON =  SeatSerializer(seat).data
+
+   flight = Flight.objects.get(flightId= seatJSON["flightId"])
+   flightJSON = FlightSerializer(flight).data
+
+   newflight = request.data["flight"]
+   if newflight != flightJSON:
+      return Response("THe Flight cannot be updated, you must make a new booking", status=400)
+
+   if request.data["seatId"] != returnJSON["seatId"]:
+      return Response("THe seat cannot be updated, you must make a new booking", status=400)
+
+   passenger = Passenger.objects.get(passengerId = returnJSON["passengerId"] )
+   passengerSerializer = PassengerSerializer(passenger, data=request.data["passenger"], partial=True)
+   if passengerSerializer.is_valid():
+      passengerSerializer.save()
+   else:
+      return Response("passenger Data was not valid!", status=400)
+   
+
+   try:
+      reservation.holdLuggage = request.data["holdLuggage"]
+      reservation.save()
+   except ValidationError as e:
+      return Response(str(e.detail), 400)
+
+   return Response(request.data,status=200)
 
 @api_view(http_method_names=['DELETE'])
 def delete_reservation(request, reservationId):
-   return Response(reservationId)
+   try:
+      reservation = Reservation.objects.get( reservationId=reservationId )
+   except Reservation.DoesNotExist:
+      return Response("Reservation does not exist", status=400)
+   
+   returnJSON =  ReservationSerializer(reservation).data
+   seat = Seat.objects.get(seatId=returnJSON["seatId"])
+
+   seat.seatTaken = False
+   seat.save()
+   reservation.delete()
+
+   return Response("Reservation Deleted", status=200)
 
 @api_view(http_method_names=['PUT'])
 def confirm_reservation(request, reservationId):
-   return Response(reservationId)
+   try:
+      reservation = Reservation.objects.get( reservationId=reservationId )
+   except Reservation.DoesNotExist:
+      return Response("Reservation does not exist", status=400)
+   
+
+   reservation.paymentConfirmed = True
+   reservation.save()
+   return Response("Payment confirmed", status=200)
